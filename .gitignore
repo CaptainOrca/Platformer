@@ -1,9 +1,0 @@
-# Any directory (and its contents) with this name will be ignored
-#   This will not ignore files named 'testing'
-**/testing/
-
-# Directories in the main project directory to ignore
-#   Anything in these directories will also be ignored
-#   You will be responsible for maintaining these files on your local environment
-Library/
-Temp/
